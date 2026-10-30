@@ -83,9 +83,9 @@
 
 ## `$ tail -f actividad.log`
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jermy061&bg_color=101010&color=b8b8b8&line=b8b8b8&point=eeeeee&area=true&hide_border=true" width="960" alt="Gráfico de actividad de Jermy Cubas"></p>
+<p align="center"><img src="assets/activity-graph.svg" width="960" alt="Gráfico de actividad de Jermy Cubas"></p>
 
-<p align="center"><sub><code>activity: commits · pull requests · proyectos</code></sub></p>
+<p align="center"><sub><code>activity: contribuciones de GitHub · actualización diaria</code></sub></p>
 
 ---
 
