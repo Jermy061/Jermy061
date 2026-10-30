@@ -1,0 +1,29 @@
+{
+  "title": "Languages · Stack (orientativo)",
+  "axes": [
+    {
+      "label": "TypeScript",
+      "value": 78
+    },
+    {
+      "label": "JavaScript",
+      "value": 76
+    },
+    {
+      "label": "SQL",
+      "value": 70
+    },
+    {
+      "label": "C#",
+      "value": 58
+    },
+    {
+      "label": "Python",
+      "value": 55
+    },
+    {
+      "label": "PHP",
+      "value": 48
+    }
+  ]
+}

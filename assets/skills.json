@@ -1,0 +1,29 @@
+{
+  "title": "Full Stack · Skills (orientativo)",
+  "axes": [
+    {
+      "label": "Frontend",
+      "value": 75
+    },
+    {
+      "label": "Backend",
+      "value": 72
+    },
+    {
+      "label": "Databases",
+      "value": 72
+    },
+    {
+      "label": "Payments",
+      "value": 65
+    },
+    {
+      "label": "Deployments",
+      "value": 62
+    },
+    {
+      "label": "Architecture",
+      "value": 65
+    }
+  ]
+}
