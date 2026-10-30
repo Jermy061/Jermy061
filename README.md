@@ -48,6 +48,9 @@
 <td valign="top"><code>├─ ✦ other_languages:</code><br><br><img src="https://skillicons.dev/icons?i=php,py,flutter" alt="PHP Python Flutter"><br><sub><code>PHP · Python · Flutter</code></sub></td>
 <td valign="top"><code>╰─ ⌁ quality_devops:</code><br><br><img src="https://skillicons.dev/icons?i=docker,git,grafana" alt="Docker Git Grafana"> <img src="assets/icon-sonarqube.svg" height="42" alt="SonarQube"><br><sub><code>Docker · Git · SonarQube · Grafana</code></sub></td>
 </tr>
+<tr>
+<td colspan="2" valign="top"><b>Asistentes y documentación</b><br><br><sub><code>Claude · GitHub Copilot (Chat y SWE Agent) · Context7</code></sub></td>
+</tr>
 </tbody><tfoot><tr><td colspan="2"><code>status: en formación · environment: production</code></td></tr></tfoot>
 </table>
 
