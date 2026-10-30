@@ -28,7 +28,6 @@ const response = await fetch('https://api.github.com/graphql', {
     'Content-Type': 'application/json',
     'User-Agent': 'Jermy061-GitHub-Activity-Graph'
   },
-  signal: AbortSignal.timeout(30000),
   body: JSON.stringify({ query, variables: { login: username } })
 });
 
@@ -46,9 +45,9 @@ if (!days.length || !days.some(day => day.contributionCount > 0)) {
 }
 
 const width = 1120;
-const height = 280;
+const height = 250;
 const left = 48;
-const top = 110;
+const top = 78;
 const cell = 12;
 const gap = 4;
 const step = cell + gap;
@@ -68,10 +67,10 @@ let rects = '';
 
 for (const day of days) {
   const date = new Date(`${day.date}T00:00:00Z`);
-  const weekIndex = Math.floor(((date - firstDate) / 86400000 + firstDate.getUTCDay()) / 7);
+  const weekIndex = Math.floor((date - firstDate) / (7 * 86400000));
   const weekday = date.getUTCDay();
   if (date.getUTCMonth() !== lastMonth) {
-    monthLabels.push(`<text x="${left + weekIndex * step}" y="96" class="month">${monthNames[date.getUTCMonth()]}</text>`);
+    monthLabels.push(`<text x="${left + weekIndex * step}" y="55" class="month">${monthNames[date.getUTCMonth()]}</text>`);
     lastMonth = date.getUTCMonth();
   }
   const color = palette[day.contributionLevel] || palette.NONE;
@@ -101,10 +100,10 @@ const svg = `<?xml version="1.0" encoding="UTF-8"?>
 <text x="100" y="68" class="mono" font-size="17" fill="#e6edf3">contribuciones en el último año</text>
 ${monthLabels.join('\n')}
 ${rects}
-<text x="28" y="254" class="muted">${esc(first)} → ${esc(last)} · datos oficiales de GitHub</text>
-<text x="870" y="254" class="muted">Menos</text>
-${['#171b24','#0e4429','#006d32','#26a641','#39d353'].map((color, i) => `<rect x="${922 + i * 16}" y="241" width="13" height="13" rx="3" fill="${color}"/>`).join('')}
-<text x="1002" y="254" class="muted">Más</text>
+<text x="28" y="224" class="muted">${esc(first)} → ${esc(last)} · datos oficiales de GitHub</text>
+<text x="870" y="224" class="muted">Menos</text>
+${['#171b24','#0e4429','#006d32','#26a641','#39d353'].map((color, i) => `<rect x="922" y="211" width="13" height="13" rx="3" fill="${color}"/>`).join('')}
+<text x="1002" y="224" class="muted">Más</text>
 </svg>`;
 
 await mkdir('assets', { recursive: true });
