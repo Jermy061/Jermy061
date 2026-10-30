@@ -1,5 +1,7 @@
 <img width="1400" height="380" alt="banner-jermy" src="https://github.com/user-attachments/assets/8951e8ab-4922-4cd4-a09e-b6e4a5a0fb35" />
 
+## Hola, soy Jermy
+
 ### Full Stack Developer · Bagua, Amazonas 🇵🇪
 
 Construyo sistemas de gestión — multi-tenant, con pagos integrados. TypeScript · Next.js · React · Postgres.
@@ -59,3 +61,7 @@ Sistema integral para restaurantes y bares, multi-tenant y con control de acceso
 - **Ingeniería de Sistemas** — UNTRM, VIII ciclo · Tercio Superior
 - Angular: de cero a experto — Udemy
 - Software Development with Claude Code — DataCamp
+
+---
+
+![Serpiente de contribuciones](https://raw.githubusercontent.com/Jermy061/Jermy061/output/snake.svg)
