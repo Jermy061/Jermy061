@@ -78,7 +78,7 @@ Sistema integral para restaurantes y bares, multi-tenant y con control de acceso
 
 ## `$ tail -f actividad.log`
 
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Jermy061&bg_color=0d0d0e&color=c9c9ce&line=E8B04B&point=E8B04B&area=true&area_color=E8B04B&hide_border=true&custom_title=Contribuciones%20de%20los%20ultimos%2031%20dias)
+![Gráfico de actividad](./assets/activity-graph.svg)
 
 ---
 
