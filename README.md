@@ -11,11 +11,11 @@
 <br>
 
 <a href="https://github.com/Jermy061">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=F78CA0&center=true&vCenter=true&width=900&lines=Jermy+Cubas+%E2%80%94+Full+Stack+Developer%3BTypeScript+%7C+Next.js+%7C+React%3BSistemas+de+gestion+%7C+Multi-tenant+%7C+Pagos%3BConstruyendo+software+desde+Bagua%2C+Peru" alt="Presentación animada Full Stack">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=171717&center=true&vCenter=true&width=900&lines=Jermy+Cubas+%E2%80%94+Full+Stack+Developer%3BTypeScript+%7C+Next.js+%7C+React%3BSistemas+de+gestion+%7C+Multi-tenant+%7C+Pagos%3BConstruyendo+software+desde+Bagua%2C+Peru" alt="Presentación animada Full Stack">
 </a>
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=Jermy061&style=flat&color=f78ca0&label=profile+views" alt="Visitas al perfil">
+<img src="https://komarev.com/ghpvc/?username=Jermy061&style=flat&color=171717&label=profile+views" alt="Visitas al perfil">
 
 </div>
 
@@ -33,7 +33,7 @@
 
 ## `$ cat tech-stack.yaml`
 
-<table border="1" cellpadding="14" bgcolor="#17171c">
+<table border="1" cellpadding="14" bgcolor="#101010">
 <thead><tr><th colspan="2" align="left"><code>jermy@bagua:~$ cat tech-stack.yaml</code></th></tr></thead>
 <tbody>
 <tr>
@@ -83,7 +83,7 @@
 
 ## `$ tail -f actividad.log`
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jermy061&bg_color=17171c&color=c7a4f5&line=f78ca0&point=76d8d2&area=true&hide_border=true" width="960" alt="Gráfico de actividad de Jermy Cubas"></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jermy061&bg_color=101010&color=b8b8b8&line=b8b8b8&point=eeeeee&area=true&hide_border=true" width="960" alt="Gráfico de actividad de Jermy Cubas"></p>
 
 <p align="center"><sub><code>activity: commits · pull requests · proyectos</code></sub></p>
 
@@ -102,10 +102,10 @@ Software Development with Claude Code · DataCamp
 ## `$ connect --socials`
 
 <div align="center">
-<a href="https://linkedin.com/in/jermy-sneyder-cubas-solsol-54890a238"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="mailto:jermysneydercubassolsol@gmail.com"><img src="https://img.shields.io/badge/Email-F78CA0?style=for-the-badge&logo=gmail&logoColor=1a1a2e" alt="Email"></a>&nbsp;&nbsp;
-<a href="https://github.com/Jermy061"><img src="https://img.shields.io/badge/GitHub-C7A4F5?style=for-the-badge&logo=github&logoColor=1a1a2e" alt="GitHub"></a>
+<a href="https://linkedin.com/in/jermy-sneyder-cubas-solsol-54890a238"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="mailto:jermysneydercubassolsol@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"></a>&nbsp;&nbsp;
+<a href="https://github.com/Jermy061"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"></a>
 </div>
 
 <br>
-<div align="center"><sub>Hecho desde Bagua, Amazonas, Perú · @Jermy061 🌸</sub></div>
+<div align="center"><sub>Hecho desde Bagua, Amazonas, Perú · @Jermy061 </sub></div>

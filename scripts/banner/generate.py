@@ -58,28 +58,28 @@ YAML_ROWS = [
 
 THEMES = {
     "dark": {
-        "bg":      "#0A0F1E",
-        "panel":   "#0D1628",
-        "panel2":  "#101B30",
-        "line":    "#25344C",
-        "muted":   "#8291A8",
-        "text":    "#F0E6F0",
-        "portrait":"#F78CA0",   # city pop pink
-        "chrome":  "#C9B1D9",   # city pop lavender
-        "accent":  "#F78CA0",
-        "shadow":  "#02050B",
+        "bg":      "#080808",
+        "panel":   "#111111",
+        "panel2":  "#181818",
+        "line":    "#383838",
+        "muted":   "#999999",
+        "text":    "#eeeeee",
+        "portrait":"#b8b8b8",   # monochrome silver
+        "chrome":  "#d4d4d4",   # monochrome highlight
+        "accent":  "#b8b8b8",
+        "shadow":  "#000000",
     },
     "light": {
-        "bg":      "#FDF0F3",
-        "panel":   "#FFFFFF",
-        "panel2":  "#FDE8EE",
-        "line":    "#F0C0CE",
-        "muted":   "#9B7B8A",
-        "text":    "#2D1A24",
-        "portrait":"#E05F80",
-        "chrome":  "#7B5EA7",
-        "accent":  "#E05F80",
-        "shadow":  "#D4A0B0",
+        "bg":      "#f5f5f5",
+        "panel":   "#ffffff",
+        "panel2":  "#e8e8e8",
+        "line":    "#bdbdbd",
+        "muted":   "#666666",
+        "text":    "#171717",
+        "portrait":"#171717",
+        "chrome":  "#333333",
+        "accent":  "#171717",
+        "shadow":  "#aaaaaa",
     },
 }
 
@@ -355,9 +355,9 @@ def render_svg(
         f'<rect x="13" y="13" width="1154" height="584" rx="13" fill="{t["panel"]}" '
         f'stroke="{t["line"]}" filter="url(#shadow)"/>',
         f'<path d="M13 62H1167" stroke="{t["line"]}"/>',
-        '<circle cx="38" cy="38" r="6" fill="#FF5F57"/>'
-        '<circle cx="59" cy="38" r="6" fill="#FEBC2E"/>'
-        '<circle cx="80" cy="38" r="6" fill="#28C840"/>',
+        '<circle cx="38" cy="38" r="6" fill="#808080"/>'
+        '<circle cx="59" cy="38" r="6" fill="#c0c0c0"/>'
+        '<circle cx="80" cy="38" r="6" fill="#9c9c9c"/>',
         f'<text x="590" y="43" text-anchor="middle" fill="{t["muted"]}" '
         'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" '
         'letter-spacing=".4">vim profile.yml</text>',
