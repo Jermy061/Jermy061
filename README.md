@@ -80,8 +80,3 @@ Sistema integral para restaurantes y bares, multi-tenant y con control de acceso
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jermy-sneyder-cubas-solsol-54890a238)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jermysneydercubassolsol@gmail.com)
-
----
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Jermy061&show_icons=true&hide_border=true)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Jermy061&layout=compact&hide_border=true)
