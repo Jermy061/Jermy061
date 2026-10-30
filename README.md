@@ -83,7 +83,7 @@
 
 ## `$ tail -f actividad.log`
 
-<p align="center"><img src="assets/activity-graph.svg" width="960" alt="Gráfico de actividad de Jermy Cubas"></p>
+<p align="center"><img src="assets/activity-graph.svg" width="100%" alt="Actividad real de GitHub de Jermy061"></p>
 
 <p align="center"><sub><code>activity: contribuciones de GitHub · actualización diaria</code></sub></p>
 
