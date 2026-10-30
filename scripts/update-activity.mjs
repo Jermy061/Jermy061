@@ -6,7 +6,7 @@ if (!token) throw new Error('Falta GH_ACTIVITY_TOKEN. Configúralo como secreto 
 
 const query = `query($login: String!) {
   user(login: $login) {
-    contributionsCollection(includePrivateContributions: true) {
+    contributionsCollection {
       contributionCalendar {
         totalContributions
         weeks {
