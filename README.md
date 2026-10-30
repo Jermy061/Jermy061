@@ -1,30 +1,50 @@
 <img width="1400" height="380" alt="banner-jermy" src="https://github.com/user-attachments/assets/8951e8ab-4922-4cd4-a09e-b6e4a5a0fb35" />
 
-## Hola, soy Jermy
+[![Full Stack Developer](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=E8B04B&center=true&vCenter=true&width=900&lines=Jermy+Cubas+%E2%80%94+Full+Stack+Developer;TypeScript+%7C+Next.js+%7C+React+%7C+Postgres;Sistemas+de+gesti%C3%B3n+multi-tenant+con+pagos)](https://github.com/Jermy061)
 
-### Full Stack Developer · Bagua, Amazonas 🇵🇪
+---
 
-Construyo sistemas de gestión — multi-tenant, con pagos integrados. TypeScript · Next.js · React · Postgres.
+## `$ whoami`
+
+```
+jermy@bagua:~$ whoami
+Jermy Sneyder Cubas Solsol · Full Stack Developer · Bagua, Amazonas, Perú
+
+jermy@bagua:~$ cat perfil.txt
+Construyo sistemas de gestión para negocios y entidades de mi región:
+trámites municipales, transporte, lácteos, veterinaria, talleres.
+Multi-tenant, con pagos integrados y paneles administrativos.
+
+jermy@bagua:~$ cat estudios.txt
+Ingeniería de Sistemas · UNTRM · VIII ciclo · Tercio Superior
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jermy-sneyder-cubas-solsol-54890a238)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jermysneydercubassolsol@gmail.com)
 
 ---
 
-### Stack
+## `$ cat stack.yaml`
 
-![Stack](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,prisma,postgres,vercel,git)
+| `jermy@bagua:~$ cat stack.yaml` | |
+|---|---|
+| `├─ ◆ frontend:` ![](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind) `TypeScript · React · Next.js · Tailwind` | `├─ ▣ datos:` ![](https://skillicons.dev/icons?i=postgres,mysql,prisma) `PostgreSQL · MySQL · Prisma` |
+| `├─ ⚙ backend:` ![](https://skillicons.dev/icons?i=nodejs,express,cs,dotnet) `Node.js · Express · C# · .NET` | `├─ ◉ pagos_servicios:` ![](https://skillicons.dev/icons?i=stripe,vercel) `Stripe · Mercado Pago · Vercel · Neon` |
+| `├─ ✦ otros_lenguajes:` ![](https://skillicons.dev/icons?i=php,py,flutter) `PHP · Python · Flutter` | `╰─ ⌁ calidad_devops:` ![](https://skillicons.dev/icons?i=docker,git,grafana) `Docker · Git · SonarQube · Grafana` |
 
-También:
-
-![También](https://skillicons.dev/icons?i=php,cs,dotnet,py,flutter,mysql,docker,grafana)
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+`status: en formación · environment: production`
 
 ---
 
-### Proyectos
+## `$ get signals --all`
+
+![Radar de habilidades](./assets/radar-skills.svg)![Radar de lenguajes](./assets/radar-langs.svg)
+
+`signals: skills_radar · language_radar`
+
+---
+
+## `$ ls proyectos/`
 
 **[sgd-bagua](https://github.com/Jermy061/sgd-bagua) — SIGETRAM Bagua**
 Digitalización y trazabilidad de trámites documentarios de la Municipalidad Provincial de Bagua. Arquitectura monolítica modular, desarrollada en equipo de tres con integración por Pull Requests. Aporté módulos funcionales, mejoras de seguridad y funcionalidades administrativas.
@@ -56,7 +76,13 @@ Sistema integral para restaurantes y bares, multi-tenant y con control de acceso
 
 ---
 
-### Formación
+## `$ tail -f actividad.log`
+
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Jermy061&bg_color=0d0d0e&color=c9c9ce&line=E8B04B&point=E8B04B&area=true&area_color=E8B04B&hide_border=true&custom_title=Contribuciones%20de%20los%20ultimos%2031%20dias)
+
+---
+
+## `$ cat formacion.txt`
 
 - **Ingeniería de Sistemas** — UNTRM, VIII ciclo · Tercio Superior
 - Angular: de cero a experto — Udemy
@@ -64,4 +90,4 @@ Sistema integral para restaurantes y bares, multi-tenant y con control de acceso
 
 ---
 
-![Serpiente de contribuciones](https://raw.githubusercontent.com/Jermy061/Jermy061/output/snake.svg)
+`Hecho desde Bagua, Amazonas · @Jermy061`
