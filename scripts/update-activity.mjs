@@ -64,11 +64,11 @@ const esc = (value) => String(value)
   .replaceAll('"', '&quot;');
 
 const width = 1120;
-const height = 320;
+const height = 390;
 const left = 60;
 const right = 24;
-const top = 92;
-const bottom = 58;
+const top = 155;
+const bottom = 65;
 const chartW = width - left - right;
 const chartH = height - top - bottom;
 const barGap = 4;
@@ -96,7 +96,7 @@ weeks.forEach((week, index) => {
   const month = d.getUTCMonth();
   if (month !== prevMonth) {
     const x = offsetX + index * (barWidth + barGap);
-    monthLabels.push(`<text x="${x}" y="76" class="month">${monthNames[month]}</text>`);
+    monthLabels.push(`<text x="${x}" y="140" class="month">${monthNames[month]}</text>`);
     prevMonth = month;
   }
 });
@@ -137,11 +137,11 @@ const svg = `<?xml version="1.0" encoding="UTF-8"?>
 <text x="1090" y="29" text-anchor="end" class="mono" font-size="12" fill="#a78bfa">REAL GITHUB DATA</text>
 <text x="28" y="70" class="mono" font-size="30" font-weight="700" fill="#39d98a">${total}</text>
 <text x="102" y="70" class="mono" font-size="18" fill="#e6edf3">contribuciones en el último año</text>
-<text x="860" y="70" class="muted">pico semanal: ${peak} · ${esc(peakWeek?.start || '')}</text>
+<text x="860" y="115" class="muted">pico semanal: ${peak} · ${esc(peakWeek?.start || '')}</text>
 ${monthLabels.join('\n')}
 ${grid.join('\n')}
 ${bars}
-<text x="28" y="292" class="muted">${esc(first)} → ${esc(last)} · barras semanales · incluye contribuciones privadas anonimizadas</text>
+<text x="28" y="365" class="muted">${esc(first)} → ${esc(last)} · barras semanales · incluye contribuciones privadas anonimizadas</text>
 </svg>`;
 
 await mkdir('assets', { recursive: true });
