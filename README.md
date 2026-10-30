@@ -1,4 +1,4 @@
-## Hola, soy Jermy
+<img width="1400" height="380" alt="banner-jermy" src="https://github.com/user-attachments/assets/8951e8ab-4922-4cd4-a09e-b6e4a5a0fb35" />
 
 ### Full Stack Developer · Bagua, Amazonas 🇵🇪
 
