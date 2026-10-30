@@ -51,7 +51,7 @@
 <td valign="top"><code>╰─ ⌁ quality_devops:</code><br><br><img src="https://skillicons.dev/icons?i=docker,git,grafana" alt="Docker Git Grafana"> <img src="assets/icon-sonarqube.svg" height="42" alt="SonarQube"><br><sub><code>Docker · Git · SonarQube · Grafana</code></sub></td>
 </tr>
 <tr>
-<td colspan="2" valign="top"><b>Asistentes y documentación</b><br><br><img src="assets/icon-claude.svg" width="48" height="48" alt="Claude" /> <img src="assets/icon-githubcopilot.svg" width="48" height="48" alt="GitHub Copilot" /> <img src="assets/icon-context7.svg" width="48" height="48" alt="Context7" /><br><sub><code>Claude · GitHub Copilot (Chat y SWE Agent) · Context7</code></sub></td>
+<td colspan="2" valign="top"><b>Asistentes y documentación</b><br><br><img src="assets/icon-claude.svg" width="48" height="48" alt="Claude" /> <img src="assets/icon-githubcopilot.svg" width="48" height="48" alt="GitHub Copilot" /> <img src="assets/icon-gemini.svg" width="48" height="48" alt="Gemini" /> <img src="assets/icon-codex.svg" width="48" height="48" alt="Codex" /> <img src="assets/icon-context7.svg" width="48" height="48" alt="Context7" /><br><sub><code>Claude · GitHub Copilot (Chat y SWE Agent) · Gemini · Codex · Context7</code></sub></td>
 </tr>
 </tbody><tfoot><tr><td colspan="2"><code>status: en formación · environment: production</code></td></tr></tfoot>
 </table>
