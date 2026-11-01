@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="390" viewBox="0 0 1120 390" role="img" aria-labelledby="title desc">
-<title id="title">473 contribuciones de Jermy061 en el último año</title>
-<desc id="desc">Gráfico de barras semanales generado con GitHub GraphQL, desde 2025-10-26 hasta 2026-10-31. Cada barra representa el total real de contribuciones de esa semana.</desc>
+<title id="title">483 contribuciones de Jermy061 en el último año</title>
+<desc id="desc">Gráfico de barras semanales generado con GitHub GraphQL, desde 2025-11-02 hasta 2026-11-01. Cada barra representa el total real de contribuciones de esa semana.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#101522"/>
@@ -21,22 +21,22 @@
 <path d="M16 42H1104" stroke="#28344a"/>
 <text x="28" y="29" class="mono" font-size="13" fill="#70e1d2">$ analytics --contributions</text>
 <text x="1090" y="29" text-anchor="end" class="mono" font-size="12" fill="#a78bfa">REAL GITHUB DATA</text>
-<text x="28" y="70" class="mono" font-size="30" font-weight="700" fill="#39d98a">473</text>
+<text x="28" y="70" class="mono" font-size="30" font-weight="700" fill="#39d98a">483</text>
 <text x="102" y="70" class="mono" font-size="18" fill="#e6edf3">contribuciones en el último año</text>
 <text x="860" y="115" class="muted">pico semanal: 97 · 2026-10-18</text>
-<text x="76" y="140" class="month">OCT</text>
-<text x="95" y="140" class="month">NOV</text>
-<text x="190" y="140" class="month">DIC</text>
-<text x="266" y="140" class="month">ENE</text>
-<text x="342" y="140" class="month">FEB</text>
-<text x="418" y="140" class="month">MAR</text>
-<text x="513" y="140" class="month">ABR</text>
-<text x="589" y="140" class="month">MAY</text>
-<text x="684" y="140" class="month">JUN</text>
-<text x="760" y="140" class="month">JUL</text>
-<text x="836" y="140" class="month">AGO</text>
-<text x="931" y="140" class="month">SEP</text>
-<text x="1007" y="140" class="month">OCT</text>
+<text x="76" y="140" class="month">NOV</text>
+<text x="171" y="140" class="month">DIC</text>
+<text x="247" y="140" class="month">ENE</text>
+<text x="323" y="140" class="month">FEB</text>
+<text x="399" y="140" class="month">MAR</text>
+<text x="494" y="140" class="month">ABR</text>
+<text x="570" y="140" class="month">MAY</text>
+<text x="665" y="140" class="month">JUN</text>
+<text x="741" y="140" class="month">JUL</text>
+<text x="817" y="140" class="month">AGO</text>
+<text x="912" y="140" class="month">SEP</text>
+<text x="988" y="140" class="month">OCT</text>
+<text x="1064" y="140" class="month">NOV</text>
 <line x1="60" y1="325" x2="1096" y2="325" stroke="#1d2a3b" stroke-width="1"/>
 <text x="50" y="329" text-anchor="end" class="muted">0</text>
 <line x1="60" y1="282.5" x2="1096" y2="282.5" stroke="#1d2a3b" stroke-width="1"/>
@@ -47,58 +47,58 @@
 <text x="50" y="201.5" text-anchor="end" class="muted">75</text>
 <line x1="60" y1="155" x2="1096" y2="155" stroke="#1d2a3b" stroke-width="1"/>
 <text x="50" y="159" text-anchor="end" class="muted">100</text>
-<rect x="76" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2025-10-26 → 2025-11-01: 0 contribuciones</title></rect>
-<rect x="95" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2025-11-02 → 2025-11-08: 0 contribuciones</title></rect>
-<rect x="114" y="313" width="15" height="12" rx="3" fill="url(#bar)" opacity="1"><title>2025-11-09 → 2025-11-15: 7 contribuciones</title></rect>
-<rect x="133" y="316" width="15" height="9" rx="3" fill="url(#bar)" opacity="1"><title>2025-11-16 → 2025-11-22: 5 contribuciones</title></rect>
-<rect x="152" y="315" width="15" height="10" rx="3" fill="url(#bar)" opacity="1"><title>2025-11-23 → 2025-11-29: 6 contribuciones</title></rect>
-<rect x="171" y="306" width="15" height="19" rx="3" fill="url(#bar)" opacity="1"><title>2025-11-30 → 2025-12-06: 11 contribuciones</title></rect>
-<rect x="190" y="301" width="15" height="24" rx="3" fill="url(#bar)" opacity="1"><title>2025-12-07 → 2025-12-13: 14 contribuciones</title></rect>
-<rect x="209" y="310" width="15" height="15" rx="3" fill="url(#bar)" opacity="1"><title>2025-12-14 → 2025-12-20: 9 contribuciones</title></rect>
-<rect x="228" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2025-12-21 → 2025-12-27: 0 contribuciones</title></rect>
-<rect x="247" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2025-12-28 → 2026-01-03: 0 contribuciones</title></rect>
-<rect x="266" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-01-04 → 2026-01-10: 0 contribuciones</title></rect>
-<rect x="285" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-01-11 → 2026-01-17: 0 contribuciones</title></rect>
-<rect x="304" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-01-18 → 2026-01-24: 0 contribuciones</title></rect>
-<rect x="323" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-01-25 → 2026-01-31: 0 contribuciones</title></rect>
-<rect x="342" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-02-01 → 2026-02-07: 0 contribuciones</title></rect>
-<rect x="361" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-02-08 → 2026-02-14: 0 contribuciones</title></rect>
-<rect x="380" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-02-15 → 2026-02-21: 0 contribuciones</title></rect>
-<rect x="399" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-02-22 → 2026-02-28: 0 contribuciones</title></rect>
-<rect x="418" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-03-01 → 2026-03-07: 0 contribuciones</title></rect>
-<rect x="437" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-03-08 → 2026-03-14: 0 contribuciones</title></rect>
-<rect x="456" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-03-15 → 2026-03-21: 0 contribuciones</title></rect>
-<rect x="475" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-03-22 → 2026-03-28: 0 contribuciones</title></rect>
-<rect x="494" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-03-29 → 2026-04-04: 0 contribuciones</title></rect>
-<rect x="513" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-04-05 → 2026-04-11: 0 contribuciones</title></rect>
-<rect x="532" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-04-12 → 2026-04-18: 0 contribuciones</title></rect>
-<rect x="551" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-04-19 → 2026-04-25: 0 contribuciones</title></rect>
-<rect x="570" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-04-26 → 2026-05-02: 0 contribuciones</title></rect>
-<rect x="589" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-05-03 → 2026-05-09: 0 contribuciones</title></rect>
-<rect x="608" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-05-10 → 2026-05-16: 0 contribuciones</title></rect>
-<rect x="627" y="322" width="15" height="3" rx="3" fill="url(#bar)" opacity="1"><title>2026-05-17 → 2026-05-23: 2 contribuciones</title></rect>
-<rect x="646" y="289" width="15" height="36" rx="3" fill="url(#bar)" opacity="1"><title>2026-05-24 → 2026-05-30: 21 contribuciones</title></rect>
-<rect x="665" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-05-31 → 2026-06-06: 0 contribuciones</title></rect>
-<rect x="684" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-06-07 → 2026-06-13: 0 contribuciones</title></rect>
-<rect x="703" y="316" width="15" height="9" rx="3" fill="url(#bar)" opacity="1"><title>2026-06-14 → 2026-06-20: 5 contribuciones</title></rect>
-<rect x="722" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-06-21 → 2026-06-27: 0 contribuciones</title></rect>
-<rect x="741" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-06-28 → 2026-07-04: 0 contribuciones</title></rect>
-<rect x="760" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-07-05 → 2026-07-11: 0 contribuciones</title></rect>
-<rect x="779" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-07-12 → 2026-07-18: 0 contribuciones</title></rect>
-<rect x="798" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-07-19 → 2026-07-25: 0 contribuciones</title></rect>
-<rect x="817" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-07-26 → 2026-08-01: 0 contribuciones</title></rect>
-<rect x="836" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-08-02 → 2026-08-08: 0 contribuciones</title></rect>
-<rect x="855" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-08-09 → 2026-08-15: 0 contribuciones</title></rect>
-<rect x="874" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-08-16 → 2026-08-22: 0 contribuciones</title></rect>
-<rect x="893" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-08-23 → 2026-08-29: 0 contribuciones</title></rect>
-<rect x="912" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-08-30 → 2026-09-05: 0 contribuciones</title></rect>
-<rect x="931" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-09-06 → 2026-09-12: 0 contribuciones</title></rect>
-<rect x="950" y="310" width="15" height="15" rx="3" fill="url(#bar)" opacity="1"><title>2026-09-13 → 2026-09-19: 9 contribuciones</title></rect>
-<rect x="969" y="250" width="15" height="75" rx="3" fill="url(#bar)" opacity="1"><title>2026-09-20 → 2026-09-26: 44 contribuciones</title></rect>
-<rect x="988" y="252" width="15" height="73" rx="3" fill="url(#bar)" opacity="1"><title>2026-09-27 → 2026-10-03: 43 contribuciones</title></rect>
-<rect x="1007" y="235" width="15" height="90" rx="3" fill="url(#bar)" opacity="1"><title>2026-10-04 → 2026-10-10: 53 contribuciones</title></rect>
-<rect x="1026" y="204" width="15" height="121" rx="3" fill="url(#bar)" opacity="1"><title>2026-10-11 → 2026-10-17: 71 contribuciones</title></rect>
-<rect x="1045" y="160" width="15" height="165" rx="3" fill="url(#bar)" opacity="1"><title>2026-10-18 → 2026-10-24: 97 contribuciones</title></rect>
-<rect x="1064" y="196" width="15" height="129" rx="3" fill="url(#bar)" opacity="1"><title>2026-10-25 → 2026-10-31: 76 contribuciones</title></rect>
-<text x="28" y="365" class="muted">2025-10-26 → 2026-10-31 · barras semanales · incluye contribuciones privadas anonimizadas</text>
+<rect x="76" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2025-11-02 → 2025-11-08: 0 contribuciones</title></rect>
+<rect x="95" y="313" width="15" height="12" rx="3" fill="url(#bar)" opacity="1"><title>2025-11-09 → 2025-11-15: 7 contribuciones</title></rect>
+<rect x="114" y="316" width="15" height="9" rx="3" fill="url(#bar)" opacity="1"><title>2025-11-16 → 2025-11-22: 5 contribuciones</title></rect>
+<rect x="133" y="315" width="15" height="10" rx="3" fill="url(#bar)" opacity="1"><title>2025-11-23 → 2025-11-29: 6 contribuciones</title></rect>
+<rect x="152" y="306" width="15" height="19" rx="3" fill="url(#bar)" opacity="1"><title>2025-11-30 → 2025-12-06: 11 contribuciones</title></rect>
+<rect x="171" y="301" width="15" height="24" rx="3" fill="url(#bar)" opacity="1"><title>2025-12-07 → 2025-12-13: 14 contribuciones</title></rect>
+<rect x="190" y="310" width="15" height="15" rx="3" fill="url(#bar)" opacity="1"><title>2025-12-14 → 2025-12-20: 9 contribuciones</title></rect>
+<rect x="209" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2025-12-21 → 2025-12-27: 0 contribuciones</title></rect>
+<rect x="228" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2025-12-28 → 2026-01-03: 0 contribuciones</title></rect>
+<rect x="247" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-01-04 → 2026-01-10: 0 contribuciones</title></rect>
+<rect x="266" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-01-11 → 2026-01-17: 0 contribuciones</title></rect>
+<rect x="285" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-01-18 → 2026-01-24: 0 contribuciones</title></rect>
+<rect x="304" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-01-25 → 2026-01-31: 0 contribuciones</title></rect>
+<rect x="323" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-02-01 → 2026-02-07: 0 contribuciones</title></rect>
+<rect x="342" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-02-08 → 2026-02-14: 0 contribuciones</title></rect>
+<rect x="361" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-02-15 → 2026-02-21: 0 contribuciones</title></rect>
+<rect x="380" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-02-22 → 2026-02-28: 0 contribuciones</title></rect>
+<rect x="399" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-03-01 → 2026-03-07: 0 contribuciones</title></rect>
+<rect x="418" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-03-08 → 2026-03-14: 0 contribuciones</title></rect>
+<rect x="437" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-03-15 → 2026-03-21: 0 contribuciones</title></rect>
+<rect x="456" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-03-22 → 2026-03-28: 0 contribuciones</title></rect>
+<rect x="475" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-03-29 → 2026-04-04: 0 contribuciones</title></rect>
+<rect x="494" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-04-05 → 2026-04-11: 0 contribuciones</title></rect>
+<rect x="513" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-04-12 → 2026-04-18: 0 contribuciones</title></rect>
+<rect x="532" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-04-19 → 2026-04-25: 0 contribuciones</title></rect>
+<rect x="551" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-04-26 → 2026-05-02: 0 contribuciones</title></rect>
+<rect x="570" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-05-03 → 2026-05-09: 0 contribuciones</title></rect>
+<rect x="589" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-05-10 → 2026-05-16: 0 contribuciones</title></rect>
+<rect x="608" y="322" width="15" height="3" rx="3" fill="url(#bar)" opacity="1"><title>2026-05-17 → 2026-05-23: 2 contribuciones</title></rect>
+<rect x="627" y="289" width="15" height="36" rx="3" fill="url(#bar)" opacity="1"><title>2026-05-24 → 2026-05-30: 21 contribuciones</title></rect>
+<rect x="646" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-05-31 → 2026-06-06: 0 contribuciones</title></rect>
+<rect x="665" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-06-07 → 2026-06-13: 0 contribuciones</title></rect>
+<rect x="684" y="316" width="15" height="9" rx="3" fill="url(#bar)" opacity="1"><title>2026-06-14 → 2026-06-20: 5 contribuciones</title></rect>
+<rect x="703" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-06-21 → 2026-06-27: 0 contribuciones</title></rect>
+<rect x="722" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-06-28 → 2026-07-04: 0 contribuciones</title></rect>
+<rect x="741" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-07-05 → 2026-07-11: 0 contribuciones</title></rect>
+<rect x="760" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-07-12 → 2026-07-18: 0 contribuciones</title></rect>
+<rect x="779" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-07-19 → 2026-07-25: 0 contribuciones</title></rect>
+<rect x="798" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-07-26 → 2026-08-01: 0 contribuciones</title></rect>
+<rect x="817" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-08-02 → 2026-08-08: 0 contribuciones</title></rect>
+<rect x="836" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-08-09 → 2026-08-15: 0 contribuciones</title></rect>
+<rect x="855" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-08-16 → 2026-08-22: 0 contribuciones</title></rect>
+<rect x="874" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-08-23 → 2026-08-29: 0 contribuciones</title></rect>
+<rect x="893" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-08-30 → 2026-09-05: 0 contribuciones</title></rect>
+<rect x="912" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-09-06 → 2026-09-12: 0 contribuciones</title></rect>
+<rect x="931" y="310" width="15" height="15" rx="3" fill="url(#bar)" opacity="1"><title>2026-09-13 → 2026-09-19: 9 contribuciones</title></rect>
+<rect x="950" y="250" width="15" height="75" rx="3" fill="url(#bar)" opacity="1"><title>2026-09-20 → 2026-09-26: 44 contribuciones</title></rect>
+<rect x="969" y="252" width="15" height="73" rx="3" fill="url(#bar)" opacity="1"><title>2026-09-27 → 2026-10-03: 43 contribuciones</title></rect>
+<rect x="988" y="235" width="15" height="90" rx="3" fill="url(#bar)" opacity="1"><title>2026-10-04 → 2026-10-10: 53 contribuciones</title></rect>
+<rect x="1007" y="204" width="15" height="121" rx="3" fill="url(#bar)" opacity="1"><title>2026-10-11 → 2026-10-17: 71 contribuciones</title></rect>
+<rect x="1026" y="160" width="15" height="165" rx="3" fill="url(#bar)" opacity="1"><title>2026-10-18 → 2026-10-24: 97 contribuciones</title></rect>
+<rect x="1045" y="179" width="15" height="146" rx="3" fill="url(#bar)" opacity="1"><title>2026-10-25 → 2026-10-31: 86 contribuciones</title></rect>
+<rect x="1064" y="323" width="15" height="2" rx="3" fill="url(#bar)" opacity="0.35"><title>2026-11-01 → 2026-11-01: 0 contribuciones</title></rect>
+<text x="28" y="365" class="muted">2025-11-02 → 2026-11-01 · barras semanales · incluye contribuciones privadas anonimizadas</text>
 </svg>
